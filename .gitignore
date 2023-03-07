@@ -45,3 +45,6 @@ src/main/resources/export/hospice_rev_cntr_code_map.json
 
 # VS Code plugin files
 .history
+
+# IntelliJ
+.idea
